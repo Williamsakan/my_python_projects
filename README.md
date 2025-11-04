@@ -16,7 +16,7 @@ Finally, you can decide to output only the columns **Brand**, **Model**, **Colou
 |---|-----------|-----------|------------|----------|--------------|-----------|
 | 0 | Lexus     | IS        | 2014       | White    | Foreign Used | 23000000  |
 | 1 | Lexus     | RX        | 2013       | white    |   Local Used | 21500000  |
-| 2 | Toyota    | Camry     | 2010       | Black    |   Local Used |   8500000  |
+| 2 | Toyota    | Camry     | 2010       | Black    |   Local Used |  8500000  |
 | 3 | Toyota    | Tundra    | 2014       | Red      | Foreign Used | 38500000  |
 | 4 | Lexus     | RX        | 2009       | Red      | Foreign Used | 13500000  |
 
