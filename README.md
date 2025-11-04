@@ -8,7 +8,7 @@ You will after import the functions in module this way on your jupyter notebook 
 3. df = colour_column(df)
 4. df = year_column(df)
 5. df = brand_column(df)
-6. df = model_column(df)
+6. df = model_column(df) /n
 Note that from step 2 to step 4 inclusive, you can interchange them since they are not dependent on each other. You will have to read the data first, then you'd have to call the *brand_column* function before calling the *model_column* function
 Finally, you can decide to output only the columns **Brand**, **Model**, **Colour**, **Year**, **Type**, **Price** that is
 |   | **Brand** | **Model** | **Colour** | **Year** | **Type**     | **Price** |
