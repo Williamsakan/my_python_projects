@@ -1,3 +1,4 @@
+# Railway_Project
 the railway_new.csv is a dataset on Railway transactions and activities. I wrote a python script (railway.py) to solve several questions
 whicn are given below:
 1.	What is the total revenue generated from all ticket sales?
